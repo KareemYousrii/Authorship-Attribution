@@ -1,0 +1,91 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Argamon \& Levitan(2005)Argamon and Levitan]{6}
+Argamon, Shlomo and Levitan, Shlomo.
+\newblock Measuring the usefulness of function words for authorship
+  attribution.
+\newblock In \emph{In Proceedings of the 2005 ACH/ALLC Conference}, 2005.
+
+\bibitem[BIBER(1990)]{4}
+BIBER, DOUGLAS.
+\newblock Methodological issues regarding corpus-based analyses of linguistic
+  variation.
+\newblock \emph{Literary and Linguistic Computing}, 5\penalty0 (4):\penalty0
+  257--269, 1990.
+\newblock \doi{10.1093/llc/5.4.257}.
+\newblock URL \url{http://llc.oxfordjournals.org/content/5/4/257.abstract}.
+
+\bibitem[Bozkurt et~al.(2007)Bozkurt, Baghoglu, and Uyar]{1}
+Bozkurt, I.N., Baghoglu, O., and Uyar, E.
+\newblock Authorship attribution.
+\newblock In \emph{Computer and information sciences, 2007. iscis 2007. 22nd
+  international symposium on}, pp.\  1--5, Nov 2007.
+\newblock \doi{10.1109/ISCIS.2007.4456854}.
+
+\bibitem[Giraud \& Arti{\`{e}}res(2012)Giraud and Arti{\`{e}}res]{2}
+Giraud, Fran{\c{c}}ois{-}Marie and Arti{\`{e}}res, Thierry.
+\newblock Feature bagging for author attribution.
+\newblock In \emph{{CLEF} 2012 Evaluation Labs and Workshop, Online Working
+  Notes, Rome, Italy, September 17-20, 2012}, 2012.
+\newblock URL
+  \url{http://ceur-ws.org/Vol-1178/CLEF2012wn-PAN-GiraudEt2012.pdf}.
+
+\bibitem[He \& Rasheed(2004)He and Rasheed]{11}
+He, Ramyaa~Congzhou and Rasheed, Khaled.
+\newblock Using machine learning techniques for stylometry.
+\newblock In Arabnia, Hamid~R. and Mun, Youngsong (eds.), \emph{IC-AI}, pp.\
+  897--903. CSREA Press, 2004.
+\newblock ISBN 1-932415-32-7.
+\newblock URL
+  \url{http://dblp.uni-trier.de/db/conf/icai/icai2004-2.html#HeR04}.
+
+\bibitem[Holmes(1994)]{10}
+Holmes, David~I.
+\newblock Authorship attribution.
+\newblock \emph{Computers and the Humanities}, 28\penalty0 (2):\penalty0
+  87--106, 1994.
+\newblock \doi{10.1007/BF01830689}.
+\newblock URL \url{http://dx.doi.org/10.1007/BF01830689}.
+
+\bibitem[Koppel et~al.(2007)Koppel, Schler, and Bonchek-Dokow]{3}
+Koppel, Moshe, Schler, Jonathan, and Bonchek-Dokow, Elisheva.
+\newblock Measuring differentiability: Unmasking pseudonymous authors.
+\newblock \emph{J. Mach. Learn. Res.}, 8:\penalty0 1261--1276, December 2007.
+\newblock ISSN 1532-4435.
+\newblock URL \url{http://dl.acm.org/citation.cfm?id=1314498.1314541}.
+
+\bibitem[Loper \& Bird(2002)Loper and Bird]{9}
+Loper, Edward and Bird, Steven.
+\newblock Nltk: The natural language toolkit.
+\newblock In \emph{In Proceedings of the ACL Workshop on Effective Tools and
+  Methodologies for Teaching Natural Language Processing and Computational
+  Linguistics. Philadelphia: Association for Computational Linguistics}, 2002.
+
+\bibitem[Luyckx \& Daelemans(2005)Luyckx and Daelemans]{8}
+Luyckx, Kim and Daelemans, Walter.
+\newblock \emph{Shallow Text Analysis and Machine Learning for Authorship
+  Attribution}, pp.\  149--160.
+\newblock 2005.
+
+\bibitem[Stamatatos et~al.(2001)Stamatatos, Fakotakis, and Kokkinakis]{5}
+Stamatatos, E., Fakotakis, N., and Kokkinakis, G.
+\newblock Computer-based authorship attribution without lexical measures.
+\newblock \emph{Computers and the Humanities}, 35\penalty0 (2):\penalty0
+  193--214, 2001.
+\newblock ISSN 0010-4817.
+\newblock \doi{10.1023/A:1002681919510}.
+\newblock URL \url{http://dx.doi.org/10.1023/A%3A1002681919510}.
+
+\bibitem[Urszula~Sta\'{c}zyk(2007)]{7}
+Urszula~Sta\'{c}zyk, Krzysztof A.~Cyran.
+\newblock Machine learning approach to authorship attribution of literary
+  texts.
+\newblock \emph{International Journal of Applied Mathematics and Informatics},
+  1:\penalty0 151--158, 2007.
+
+\end{thebibliography}

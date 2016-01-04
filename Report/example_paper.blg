@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: example_paper.aux
+The style file: icml2010.bst
+Database file #1: example_paper.bib
+A bad cross reference---entry "11"
+refers to entry "conf/icai/2004-2", which doesn't exist
+Warning--I didn't find a database entry for "conf/icai/2004-2"
+Warning--empty publisher in 8
+You've used 11 entries,
+            2773 wiz_defined-function locations,
+            667 strings with 7080 characters,
+and the built_in function-call counts, 5239 in all, are:
+= -- 485
+> -- 233
+< -- 11
++ -- 79
+- -- 68
+* -- 397
+:= -- 786
+add.period$ -- 47
+call.type$ -- 11
+change.case$ -- 54
+chr.to.int$ -- 11
+cite$ -- 23
+duplicate$ -- 262
+empty$ -- 472
+format.name$ -- 89
+if$ -- 1142
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 76
+num.names$ -- 46
+pop$ -- 109
+preamble$ -- 1
+purify$ -- 44
+quote$ -- 0
+skip$ -- 192
+stack$ -- 0
+substring$ -- 206
+swap$ -- 41
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 1
+while$ -- 47
+width$ -- 0
+write$ -- 173
+(There was 1 error message)
